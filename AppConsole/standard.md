@@ -1,24 +1,24 @@
 # Run:
 
-```cs --source-file ./AppConsole/Program.cs --project ./AppConsole/AppConsole.csproj --region Run
+```cs --source-file ./Program.cs --project ./AppConsole.csproj --region Run
 ```
 
 # Http:
 
-```cs --source-file ./AppConsole/Program.cs --project ./AppConsole/AppConsole.csproj --region Http
+```cs --source-file ./Program.cs --project ./AppConsole.csproj --region Http
 ```
 
 # Json:
 
-```cs --source-file ./AppConsole/Program.cs --project ./AppConsole/AppConsole.csproj --region Json
+```cs --source-file ./Program.cs --project ./AppConsole.csproj --region Json
 ```
 
 # Linq:
 
-```cs --source-file ./AppConsole/Program.cs --project ./AppConsole/AppConsole.csproj --region Linq
+```cs --source-file ./Program.cs --project ./AppConsole.csproj --region Linq
 ```
 
 # Task:
 
-```cs --source-file ./AppConsole/Program.cs --project ./AppConsole/AppConsole.csproj --region Task
+```cs --source-file ./Program.cs --project ./AppConsole.csproj --region Task
 
